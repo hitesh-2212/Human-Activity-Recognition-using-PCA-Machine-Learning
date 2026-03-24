@@ -38,15 +38,20 @@ This project aims to:
 - Analyzed feature distributions
 - Checked feature correlations
 - Identified high dimensionality and redundancy
+- <img width="1014" height="525" alt="image" src="https://github.com/user-attachments/assets/f6980fd4-c31d-44ff-9878-4092378585e0" />
+
 
 ### 3. PCA (Dimensionality Reduction)
 - Applied PCA on scaled data
 - Used explained variance to select optimal components
 - Reduced features from **561 → 125**
+- <img width="1001" height="525" alt="image" src="https://github.com/user-attachments/assets/fa18e718-c3b5-455f-8b24-6ac0def5adab" />
+
 
 ### 4. Visualization
 - Compared raw feature scatter vs PCA-based scatter
 - Observed improved structure after PCA
+- <img width="1008" height="525" alt="image" src="https://github.com/user-attachments/assets/8929b85c-6705-44c4-8c0d-b647771215b9" />
 
 ### 5. Machine Learning Model
 - Model used: Logistic Regression
