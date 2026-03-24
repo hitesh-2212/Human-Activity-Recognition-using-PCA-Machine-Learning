@@ -7,6 +7,8 @@ The goal is to evaluate the impact of PCA on machine learning models and improve
 
 ---
 
+[Download Dataset](https://archive.ics.uci.edu/dataset/240/human%2Bactivity%2Brecognition%2Busing%2Bsmartphones)
+
 ## 📂 Dataset
 - Dataset: Human Activity Recognition (HAR)
 - Source: UCI Machine Learning Repository
